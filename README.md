@@ -1,6 +1,6 @@
-#Boulders Inc
+# Boulders Inc
 
-##What I have covered so far
+## What I have covered so far
 
 ### Full html
 1. Introduction to html
@@ -27,7 +27,7 @@
 22. 
 23. 
 
-###Css styling
+### CSS styling
 1. Introduction to CSS
 2. Importance of rule order
 3. Best Practices for CSS
@@ -52,6 +52,6 @@
 22. Using the inherit keyword
 23. Styling the body
 
-###Point to note
+### Point to note
 - This is still work under progress.
 - Some covered areas as seen in the website have not been added and that means I will keep on updating the list.
